@@ -143,8 +143,63 @@
   },
   "kylesobiaco": {
     "password": "kyle554170",
-    "profile": {},
-    "workouts": [],
+    "profile": {
+      "name": "kyle",
+      "age": "19",
+      "weight_(kg)": "59",
+      "height_(cm)": "174",
+      "daily_calorie_goal": "5000"
+    },
+    "workouts": [
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-14",
+        "type": "biceps",
+        "duration_min": 62,
+        "calories": 4000,
+        "notes": "",
+        "created_at": "2025-12-13T17:17:07.195326"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-14",
+        "type": "chest",
+        "duration_min": 60,
+        "calories": 2000,
+        "notes": "oh",
+        "created_at": "2025-12-13T18:14:27.977906"
+      }
+    ],
     "settings": {}
   }
 }
