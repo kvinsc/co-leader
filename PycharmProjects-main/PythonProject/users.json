@@ -1,0 +1,306 @@
+{
+  "kyle": {
+    "password": "123",
+    "profile": {
+      "name": "kyle",
+      "age": "18",
+      "weight": "59",
+      "height": "170",
+      "goal": "2000",
+      "activity": "moderate"
+    },
+    "workouts": [
+      {
+        "date": "2025-12-04",
+        "type": "squat",
+        "duration_min": 130,
+        "calories": 20,
+        "notes": "",
+        "created_at": "2025-12-04T22:55:49.664842"
+      },
+      {
+        "date": "2025-12-04",
+        "type": "back&biceps",
+        "duration_min": 70,
+        "calories": 2000,
+        "notes": "",
+        "created_at": "2025-12-05T00:48:59.182649"
+      },
+      {
+        "date": "2025-12-05",
+        "type": "bench press",
+        "duration_min": 65,
+        "calories": 1500,
+        "notes": "",
+        "created_at": "2025-12-05T01:11:19.206075"
+      }
+    ],
+    "settings": {}
+  },
+  "Mark": {
+    "password": "123",
+    "profile": {
+      "name": "Mark",
+      "age": "",
+      "weight": "",
+      "height": "",
+      "goal": "",
+      "activity": ""
+    },
+    "workouts": [
+      {
+        "date": "2025-12-05",
+        "type": "squat",
+        "duration_min": 65,
+        "calories": 20,
+        "notes": "",
+        "created_at": "2025-12-04T20:48:18.595523"
+      }
+    ],
+    "settings": {}
+  },
+  "clarence": {
+    "password": "123",
+    "profile": {
+      "name": "clarence",
+      "age": "",
+      "weight": "",
+      "height": "",
+      "goal": "",
+      "activity": ""
+    },
+    "workouts": [
+      {
+        "date": "2025-12-05",
+        "type": "squat",
+        "duration_min": 130,
+        "calories": 300,
+        "notes": "",
+        "created_at": "2025-12-05T00:37:02.032565"
+      }
+    ],
+    "settings": {}
+  },
+  "maam mary": {
+    "password": "123",
+    "profile": {
+      "name": "maam mary",
+      "age": "",
+      "weight": "",
+      "height": "",
+      "goal": "",
+      "activity": ""
+    },
+    "workouts": [
+      {
+        "date": "2025-12-05",
+        "type": "squat",
+        "duration_min": 120,
+        "calories": 600,
+        "notes": "",
+        "created_at": "2025-12-05T01:06:18.656348"
+      }
+    ],
+    "settings": {}
+  },
+  "mark": {
+    "password": "123",
+    "profile": {
+      "name": "mark",
+      "age": "19",
+      "weight": "73",
+      "height": "173",
+      "goal": "300",
+      "activity": "moderate"
+    },
+    "workouts": [
+      {
+        "date": "2025-12-07",
+        "type": "bench press",
+        "duration_min": 70,
+        "calories": 200,
+        "notes": "",
+        "created_at": "2025-12-06T18:04:06.577971"
+      },
+      {
+        "date": "2025-12-07",
+        "type": "back and biceps",
+        "duration_min": 90,
+        "calories": 300,
+        "notes": "",
+        "created_at": "2025-12-06T18:04:37.814532"
+      },
+      {
+        "date": "2025-12-06",
+        "type": "squat",
+        "duration_min": 120,
+        "calories": 500,
+        "notes": "",
+        "created_at": "2025-12-06T18:05:54.782934"
+      }
+    ],
+    "settings": {}
+  },
+  "kylesobiaco": {
+    "password": "kyle554170",
+    "profile": {
+      "name": "kyle",
+      "age": "19",
+      "weight_(kg)": "59",
+      "height_(cm)": "174",
+      "daily_calorie_goal": "5000"
+    },
+    "workouts": [
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-14",
+        "type": "biceps",
+        "duration_min": 62,
+        "calories": 4000,
+        "notes": "",
+        "created_at": "2025-12-13T17:17:07.195326"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-14",
+        "type": "chest",
+        "duration_min": 60,
+        "calories": 2000,
+        "notes": "oh",
+        "created_at": "2025-12-13T18:14:27.977906"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-14",
+        "type": "biceps",
+        "duration_min": 62,
+        "calories": 4000,
+        "notes": "",
+        "created_at": "2025-12-13T17:17:07.195326"
+      },
+      {
+        "date": "2025-12-13",
+        "type": "chest and back",
+        "duration_min": 72,
+        "calories": 2000,
+        "notes": "focus",
+        "created_at": "2025-12-13T07:15:13.186691"
+      },
+      {
+        "date": "2025-12-14",
+        "type": "chest",
+        "duration_min": 60,
+        "calories": 2000,
+        "notes": "oh",
+        "created_at": "2025-12-13T18:14:27.977906"
+      },
+      {
+        "date": "2025-12-15",
+        "type": "Weight Training",
+        "duration_min": 90,
+        "calories": 2000,
+        "notes": "",
+        "created_at": "2025-12-15T09:37:05.337302"
+      },
+      {
+        "date": "2025-12-15",
+        "type": "Running",
+        "duration_min": 60,
+        "calories": 3000,
+        "notes": "",
+        "created_at": "2025-12-15T09:38:05.339460"
+      },
+      {
+        "date": "2025-12-16",
+        "type": "Cycling",
+        "duration_min": 90,
+        "calories": 5000,
+        "notes": "",
+        "created_at": "2025-12-15T12:54:57.643726"
+      },
+      {
+        "date": "2025-12-16",
+        "type": "Weight Training",
+        "duration_min": 60,
+        "calories": 6000,
+        "notes": "",
+        "created_at": "2025-12-15T13:53:57.060032"
+      }
+    ],
+    "settings": {}
+  },
+  "jenny": {
+    "password": "123",
+    "profile": {
+      "name": "jenny aren",
+      "age": "19",
+      "weight_(kg)": "50",
+      "height_(cm)": "159",
+      "daily_calorie_goal": "4000"
+    },
+    "workouts": [
+      {
+        "date": "2025-12-15",
+        "type": "Weight Training",
+        "duration_min": 70,
+        "calories": 2000,
+        "notes": "POKOS",
+        "created_at": "2025-12-15T02:21:07.126122"
+      }
+    ],
+    "settings": {}
+  }
+}
